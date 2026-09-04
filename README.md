@@ -1,6 +1,6 @@
 # AdapTabPrompt ICCEIC 2026 Manuscript Archive
 
-Private, self-contained archive for the AdapTabPrompt manuscript **“Failure-Complete Evaluation of Semantic Rescue in Few-Shot Tabular Self-Training.”** The repository preserves the audited ICCEIC 2026 candidate manuscripts, the frozen evidence used by their tables, and the source and verification code needed to reconstruct and check the DOCX files.
+Public, self-contained archive for the AdapTabPrompt manuscript **“Failure-Complete Evaluation of Semantic Rescue in Few-Shot Tabular Self-Training.”** The repository preserves the audited ICCEIC 2026 candidate manuscripts, the frozen evidence used by their tables, and the source and verification code needed to reconstruct and check the DOCX files.
 
 ## Scientific status
 
