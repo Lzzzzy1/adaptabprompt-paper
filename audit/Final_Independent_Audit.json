@@ -1,0 +1,90 @@
+{
+  "schema": "adaptabprompt-final-independent-audit-v1",
+  "audited_at": "2026-09-04T19:30:00+08:00",
+  "status": "PASS",
+  "files": [
+    {
+      "name": "AdapTabPrompt_ICCEIC2026_Final_Anonymous.docx",
+      "sha256": "62B4C92B5AF928AB830EDDC2408D9A726B42EEC9E11A8A1514041FE23D30AAD8",
+      "package_crc_pass": true,
+      "pages_after_word_export": 6
+    },
+    {
+      "name": "AdapTabPrompt_ICCEIC2026_Final_Anonymous.pdf",
+      "sha256": "DBA2CC54B4FEFCB5E66B69DE21744C8C4CBC9C2EA4A30CC114C24B0FCEC82DA0",
+      "readable": true,
+      "encrypted": false,
+      "pages": 6,
+      "media_box_points": [612, 792]
+    },
+    {
+      "name": "AdapTabPrompt_ICCEIC2026_Final_Author_Copy.docx",
+      "sha256": "AB879CA1EB654406255AFC233E33F572620F2ADC2CCFEC2E8CA9E67DBB7354BB",
+      "package_crc_pass": true,
+      "pages_after_word_export": 6
+    },
+    {
+      "name": "AdapTabPrompt_ICCEIC2026_Final_Author_Copy.pdf",
+      "sha256": "B64A7D728193BC88BF5C3D3DDADB57C6D9E162DF8B848025066CB03ED81B95EF",
+      "readable": true,
+      "encrypted": false,
+      "pages": 6,
+      "media_box_points": [612, 792]
+    }
+  ],
+  "frozen_contract": {
+    "episodes": 18,
+    "ordered_method_rows": 72,
+    "failure_rows": 0,
+    "main_tree_equal_rows": 18,
+    "overall_main_minus_tree": 0.0,
+    "main_minus_no_semantics": 0.000966820370534934,
+    "main_minus_permuted": -0.0005257936507936532,
+    "main_gate_rescue": [0, 0],
+    "nosem_gate_rescue": [1, 50],
+    "perm_gate_rescue": [2, 100],
+    "conditions": 10,
+    "failed_conditions": 5,
+    "verdict": "NO_GO",
+    "tables_exact": [true, true, true, true]
+  },
+  "references": {
+    "count": 15,
+    "continuous_1_to_15": true,
+    "every_reference_cited": true,
+    "unknown_citation_numbers": [],
+    "text_exact_to_canonical_after_ignoring_layout_break": true,
+    "page_6_left_column": [1, 2, 3, 4, 5, 6, 7, 8],
+    "page_6_right_column": [9, 10, 11, 12, 13, 14, 15]
+  },
+  "cleanliness": {
+    "comment_parts": 0,
+    "comment_markers": 0,
+    "tracked_change_nodes": 0,
+    "highlight_nodes": 0,
+    "rsid_attributes": 0,
+    "custom_property_parts": 0,
+    "non_grayscale_story_colors": 0,
+    "external_editing_instruction_hits": 0,
+    "non_grayscale_pixels_per_pdf_page": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  "identity": {
+    "anonymous_copy_identity_leaks": 0,
+    "anonymous_core_author": "Anonymous",
+    "author_copy_name": "Lin Zhanyi",
+    "author_copy_affiliation": "Hong Kong Metropolitan University",
+    "author_copy_email": "lzzzy20041125@outlook.com"
+  },
+  "visual_review": {
+    "dpi": 200,
+    "final_pdf_pages_rendered_and_viewed": 12,
+    "docx_word_export_pages_rendered": 12,
+    "pdf_docx_pixel_identical_pages": 12,
+    "clipping": 0,
+    "overlap": 0,
+    "broken_tables": 0,
+    "missing_glyphs": 0,
+    "blank_pages": 0,
+    "page_6_references_in_both_columns": true
+  }
+}
